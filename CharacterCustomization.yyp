@@ -35,12 +35,20 @@
   },
   "name":"CharacterCustomization",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_background","path":"objects/obj_background/obj_background.yy",},},
+    {"id":{"name":"obj_body","path":"objects/obj_body/obj_body.yy",},},
+    {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
+    {"id":{"name":"obj_hair1","path":"objects/obj_hair1/obj_hair1.yy",},},
+    {"id":{"name":"rm_mainscreen","path":"rooms/rm_mainscreen/rm_mainscreen.yy",},},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"spr_body","path":"sprites/spr_body/spr_body.yy",},},
+    {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},},
+    {"id":{"name":"spr_hair1","path":"sprites/spr_hair1/spr_hair1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_mainscreen","path":"rooms/rm_mainscreen/rm_mainscreen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
