@@ -8,8 +8,8 @@
   "name":"obj_eye1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"head_eyes",
+    "path":"folders/Objects/head_eyes.yy",
   },
   "parentObjectId":{
     "name":"obj_parent",
