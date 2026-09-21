@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hair1",
+  "%Name":"obj_eyebrow5",
   "eventList":[],
   "managed":true,
-  "name":"obj_hair1",
-  "overriddenProperties":[],
+  "name":"obj_eyebrow5",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent","path":"objects/obj_parent/obj_parent.yy",},"propertyId":{"name":"Layer","path":"objects/obj_parent/obj_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+  ],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"head_eyebrows",
+    "path":"folders/Objects/head_eyebrows.yy",
   },
   "parentObjectId":{
     "name":"obj_parent",
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hair1",
-    "path":"sprites/spr_hair1/spr_hair1.yy",
+    "name":"spr_eyebrow5",
+    "path":"sprites/spr_eyebrow5/spr_eyebrow5.yy",
   },
   "spriteMaskId":null,
   "visible":true,

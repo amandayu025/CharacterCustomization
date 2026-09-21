@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hair1",
+  "%Name":"obj_optionbg",
   "eventList":[],
   "managed":true,
-  "name":"obj_hair1",
+  "name":"obj_optionbg",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_parent",
-    "path":"objects/obj_parent/obj_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hair1",
-    "path":"sprites/spr_hair1/spr_hair1.yy",
+    "name":"spr_optionbg",
+    "path":"sprites/spr_optionbg/spr_optionbg.yy",
   },
   "spriteMaskId":null,
   "visible":true,

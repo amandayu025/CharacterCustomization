@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hair1",
+  "%Name":"obj_top1",
   "eventList":[],
   "managed":true,
-  "name":"obj_hair1",
-  "overriddenProperties":[],
+  "name":"obj_top1",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parent","path":"objects/obj_parent/obj_parent.yy",},"propertyId":{"name":"Layer","path":"objects/obj_parent/obj_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
+  ],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"body_top",
+    "path":"folders/Objects/body_top.yy",
   },
   "parentObjectId":{
     "name":"obj_parent",
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_hair1",
-    "path":"sprites/spr_hair1/spr_hair1.yy",
+    "name":"spr_top1",
+    "path":"sprites/spr_top1/spr_top1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
