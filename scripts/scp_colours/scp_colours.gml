@@ -2,7 +2,6 @@
 global.D1Red = make_colour_rgb(139,0,0);
 global.D2Red = make_colour_rgb(255,0,0);
 global.M1Red = make_colour_rgb(165,42,42);
-global.M2Red = make_colour_rgb(178,34,34);
 global.L1Red = make_colour_rgb(205,92,92);
 global.L2Red = make_colour_rgb(240,128,128);
 
@@ -22,13 +21,11 @@ global.D2Yellow = make_colour_rgb(218,165,32);
 global.MYellow = make_colour_rgb(255, 241, 84);
 global.L1Yellow = make_colour_rgb(255, 244, 145);
 global.L2Yellow = make_colour_rgb(255,250,205);
-global.L3Yellow = make_colour_rgb(250,250,210);
 
 //green
 global.D1Green = make_colour_rgb(0,100,0);
 global.D2Green = make_colour_rgb(0,128,0);
-global.D3Green = make_colour_rgb(34,139,34);
-global.D4Green = make_colour_rgb(47,79,79);
+global.D3Green = make_colour_rgb(47,79,79);
 global.M1Green = make_colour_rgb(50,205,50);
 global.M2Green = make_colour_rgb(60,179,113);
 global.M3Green = make_colour_rgb(46,139,87);
@@ -97,7 +94,7 @@ global.L2Brown = make_colour_rgb(255,222,173);
 
 //black, gray and white
 global.Black = make_colour_rgb(28,28,28);
-global.White = make_colour_rgb(220,220,220);
+global.White = make_colour_rgb(254,254,254);
 global.Gray1 = make_colour_rgb(79,79,79);
 global.Gray2 = make_colour_rgb(128,128,128);
 global.Gray3 = make_colour_rgb(169,169,169);
