@@ -1,2 +1,2 @@
 layer_depth("Colours",-200);
-global.selected = 0;
+global.selected_colour = global.White;

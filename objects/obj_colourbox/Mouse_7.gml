@@ -1,1 +1,1 @@
-global.selected = colour;
+global.selected_colour = colour;

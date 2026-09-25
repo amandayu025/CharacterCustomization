@@ -89,6 +89,7 @@
     {"id":{"name":"spr_bottom6","path":"sprites/spr_bottom6/spr_bottom6.yy",},},
     {"id":{"name":"spr_buttons","path":"sprites/spr_buttons/spr_buttons.yy",},},
     {"id":{"name":"spr_colourbox","path":"sprites/spr_colourbox/spr_colourbox.yy",},},
+    {"id":{"name":"spr_colourboxborder","path":"sprites/spr_colourboxborder/spr_colourboxborder.yy",},},
     {"id":{"name":"spr_eye1","path":"sprites/spr_eye1/spr_eye1.yy",},},
     {"id":{"name":"spr_eye2","path":"sprites/spr_eye2/spr_eye2.yy",},},
     {"id":{"name":"spr_eye3","path":"sprites/spr_eye3/spr_eye3.yy",},},
