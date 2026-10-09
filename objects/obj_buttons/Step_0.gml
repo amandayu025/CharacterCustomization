@@ -16,4 +16,7 @@ else if(button == 4){
 else if(button == 5){
 	image_index = 5;
 }
+else if(button == 6){
+	image_index = 6;
+}
 

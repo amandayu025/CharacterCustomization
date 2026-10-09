@@ -6,3 +6,6 @@ if(Layer == global.layer){
 		click = 0;
 	}
 }
+if global.layer == 6 {
+	click = 1;
+}

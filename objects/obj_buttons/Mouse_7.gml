@@ -7,6 +7,7 @@ if(button == 0){
 	layer_depth("Top",100)
 	layer_depth("Bottom",100)
 	layer_depth("Shoe",100)
+	layer_depth("Skin_colour",100)
 }
 else if(button == 1){
 	image_index = 1;
@@ -17,6 +18,7 @@ else if(button == 1){
 	layer_depth("Top",100)
 	layer_depth("Bottom",100)
 	layer_depth("Shoe",100)
+	layer_depth("Skin_colour",100)
 }
 else if(button == 2){
 	image_index = 2;
@@ -27,6 +29,7 @@ else if(button == 2){
 	layer_depth("Top",100)
 	layer_depth("Bottom",100)
 	layer_depth("Shoe",100)
+	layer_depth("Skin_colour",100)
 }
 else if(button == 3){
 	image_index = 3;
@@ -37,6 +40,7 @@ else if(button == 3){
 	layer_depth("Top",-100)
 	layer_depth("Bottom",100)
 	layer_depth("Shoe",100)
+	layer_depth("Skin_colour",100)
 }
 else if(button == 4){
 	image_index = 4;
@@ -47,6 +51,7 @@ else if(button == 4){
 	layer_depth("Top",100)
 	layer_depth("Bottom",-100)
 	layer_depth("Shoe",100)
+	layer_depth("Skin_colour",100)
 }
 else if(button == 5){
 	image_index = 5;
@@ -57,4 +62,16 @@ else if(button == 5){
 	layer_depth("Top",100)
 	layer_depth("Bottom",100)
 	layer_depth("Shoe",-100)
+	layer_depth("Skin_colour",100)
+}
+else if(button == 6){
+	image_index = 6;
+	global.layer = 6;
+	layer_depth("Hair",100)
+	layer_depth("Eye",100)
+	layer_depth("Eyebrow",100)
+	layer_depth("Top",100)
+	layer_depth("Bottom",100)
+	layer_depth("Shoe",100)
+	layer_depth("Skin_colour",-100)
 }

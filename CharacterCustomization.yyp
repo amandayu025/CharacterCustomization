@@ -105,6 +105,7 @@
     {"id":{"name":"spr_shoe1","path":"sprites/spr_shoe1/spr_shoe1.yy",},},
     {"id":{"name":"spr_shoe2","path":"sprites/spr_shoe2/spr_shoe2.yy",},},
     {"id":{"name":"spr_shoe3","path":"sprites/spr_shoe3/spr_shoe3.yy",},},
+    {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},},
     {"id":{"name":"spr_top1","path":"sprites/spr_top1/spr_top1.yy",},},
     {"id":{"name":"spr_top2","path":"sprites/spr_top2/spr_top2.yy",},},
     {"id":{"name":"spr_top3","path":"sprites/spr_top3/spr_top3.yy",},},

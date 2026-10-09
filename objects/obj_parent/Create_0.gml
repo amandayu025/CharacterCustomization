@@ -1,4 +1,10 @@
 global.selected_colour = global.White
 click = 0;
-draw = 0;
 colour = global.White;
+hair = global.White;
+eye = global.White;
+eyebrow = global.White;
+top = global.White;
+bottom = global.White;
+shoe = global.White;
+skin = global.White;
