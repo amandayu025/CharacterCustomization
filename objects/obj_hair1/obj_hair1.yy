@@ -6,8 +6,8 @@
   "name":"obj_hair1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"head_hair",
+    "path":"folders/Objects/head_hair.yy",
   },
   "parentObjectId":{
     "name":"obj_parent",
