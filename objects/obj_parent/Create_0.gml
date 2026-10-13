@@ -1,4 +1,3 @@
-global.selected_colour = global.White
 click = 0;
 colour = global.White;
 hair = global.White;
@@ -7,4 +6,5 @@ eyebrow = global.White;
 top = global.White;
 bottom = global.White;
 shoe = global.White;
-skin = global.White;
+skin = global.White
+selected = 0;
